@@ -1,0 +1,6 @@
+# Cabecera
+
+```
+git init
+
+```
