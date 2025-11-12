@@ -4,3 +4,5 @@
 git init
 
 ```
+
+![Imagen](imagen.png)
